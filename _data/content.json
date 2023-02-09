@@ -99,6 +99,12 @@
             "author": "Yousef El-Dardiry",
             "url": "https://syncedstore.org",
             "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
+            "title": "Evolu",
+            "author": "Daniel Steigerwald",
+            "url": "https://evolu.dev",
+            "icon": "https://www.evolu.dev/android-chrome-192x192.png"
           }
         ]
       },
@@ -169,6 +175,12 @@
             "author": "@gaforres",
             "url": "https://twitter.com/gaforres",
             "icon": "https://pbs.twimg.com/profile_images/1350947174645956609/Ebe_Qd46_200x200.jpg"
+          },
+          {
+            "title": "Daniel Steigerwald",
+            "author": "@steida",
+            "url": "https://twitter.com/steida",
+            "icon": "https://pbs.twimg.com/profile_images/1051527634130210821/V4hqy3A9_400x400.jpg"
           }
         ]
       },
